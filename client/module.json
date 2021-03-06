@@ -1,0 +1,35 @@
+{
+  "name": "radio-poolsidefm",
+  "version": "2.0.0-alpha.3",
+  "license": "MIT",
+  "homepage": "https://github.com/hacklover/owd-radio-poolsidefm",
+  "author": {
+    "name": "hacklover",
+    "url": "https://github.com/hacklover"
+  },
+  "singleton": true,
+  "windows": [
+    {
+      "name": "WindowRadioPoolsideFM",
+      "category": "web-radio",
+      "title": "Poolside.FM",
+      "titleShort": "Poolside.FM",
+      "icon": "mdi-glass-cocktail",
+      "color": "#d88f91",
+      "resizable": true,
+      "noContentSpacing": true,
+      "size": {
+        "width": 1100,
+        "height": 660
+      },
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "metaData": {
+        "iframeUrl": "https://poolside.fm"
+      }
+    }
+  ]
+}
