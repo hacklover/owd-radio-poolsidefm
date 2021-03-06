@@ -10,7 +10,7 @@
 </p>
 
 ## Demo
-[Try it out](https://hacklover.net/client), just click on the console icon on the left menu
+[Try it out](https://hacklover.net/client), just open the terminal and type "poolsidefm"
 
 ## Overview
 This module is a simple iframe that wraps Poolside.fm into Open Web Desktop.
@@ -20,7 +20,7 @@ This module is a simple iframe that wraps Poolside.fm into Open Web Desktop.
 - Add the reference of this module into `owd-client/config/modules.json`
 
 ## Compatibility
-- Open Web Desktop client v2.0.0-alpha.2
+- Open Web Desktop client v2.0.0-alpha.3
 
 ## License
 This project is released under the [MIT License](LICENSE)
